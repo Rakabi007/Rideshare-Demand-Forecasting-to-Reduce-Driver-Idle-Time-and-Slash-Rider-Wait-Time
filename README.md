@@ -55,7 +55,7 @@ The pipeline consists of four distinct modules:
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/yourusername/rideshare-optimization.git
+    https://github.com/Rakabi007/Rideshare-Demand-Forecasting-to-Reduce-Driver-Idle-Time-and-Slash-Rider-Wait-Time.git
     cd rideshare-optimization
     ```
 
